@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CBookManager</string>
+    <string name="book_title">Book Title</string>
+    <string name="book_author">Book Author</string>
+    <string name="publih_date">Publih Date</string>
+    <string name="price">Price</string>
+    <string name="book_isbn_id">ISBN Id</string>
+</resources>
